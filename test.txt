@@ -1,2 +1,3 @@
 
 Test file - open trigger
+new line
